@@ -6,5 +6,5 @@ Login page
 Sign up Page
 <img width="1139" height="1062" alt="Screenshot 2025-09-15 214759" src="https://github.com/user-attachments/assets/c57683b4-e611-468e-8aa0-c207b3bc8eb0" />
 
-Result from login page
+result after login
 <img width="1144" height="1065" alt="Screenshot 2025-09-15 214850" src="https://github.com/user-attachments/assets/b1cf1dab-eca4-4bb3-a078-7aa7a3e338f6" />
